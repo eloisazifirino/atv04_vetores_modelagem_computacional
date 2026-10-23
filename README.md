@@ -76,18 +76,18 @@ python3 -m pip install numpy matplotlib
 
 ## 7. Como executar
 
-O arquivo principal do programa é `vatores.py`.
+O arquivo principal do programa é `vetores.py`.
 
 No terminal, dentro da pasta em que o arquivo está localizado, execute:
 
 ```bash
-python vatores.py
+python vetores.py
 ```
 
 Ou, se necessário:
 
 ```bash
-python3 vatores.py
+python3 vetores.py
 ```
 
 O programa executará os testes automatizados e, em seguida, solicitará as coordenadas dos três vetores.
