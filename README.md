@@ -24,24 +24,24 @@ A aplicação recebe três vetores tridimensionais, calcula o produto misto, det
 
 Dados três vetores tridimensionais \(\vec{u}\), \(\vec{v}\) e \(\vec{w}\), o produto misto é definido por:
 
-\[
+$$
 [\vec{u},\vec{v},\vec{w}]
-=\vec{u}\cdot(\vec{v}\times\vec{w})
-\]
+= \vec{u}\cdot(\vec{v}\times\vec{w})
+$$
 
 Seu valor pode ser calculado por meio do determinante formado pelas coordenadas dos três vetores.
 
 O volume do paralelepípedo definido por esses vetores é dado pelo módulo do produto misto:
 
-\[
-V_p=|\vec{u}\cdot(\vec{v}\times\vec{w})|
-\]
+$$
+V_p = |\vec{u}\cdot(\vec{v}\times\vec{w})|
+$$
 
 O volume do tetraedro correspondente é igual a um sexto desse valor:
 
-\[
-V_t=\frac{1}{6}|\vec{u}\cdot(\vec{v}\times\vec{w})|
-\]
+$$
+V_t = \frac{1}{6}|\vec{u}\cdot(\vec{v}\times\vec{w})|
+$$
 
 O sinal do produto misto depende da ordem dos vetores e indica sua orientação. Já o volume geométrico é sempre não negativo. Quando o produto misto é zero, os vetores são linearmente dependentes e o sólido formado não possui volume tridimensional positivo.
 
