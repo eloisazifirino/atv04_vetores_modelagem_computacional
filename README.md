@@ -106,29 +106,29 @@ Após inserir os dados, o programa apresentará os resultados numéricos e abrir
 
 Considere os vetores:
 
-\[
+$$
 \vec{u}=(3,0,0),\quad
 \vec{v}=(0,4,0),\quad
 \vec{w}=(1,1,5)
-\]
+$$
 
 O produto misto é:
 
-\[
+$$
 \vec{u}\cdot(\vec{v}\times\vec{w})=60
-\]
+$$
 
 Assim, o volume do paralelepípedo é:
 
-\[
+$$
 V_p=|60|=60
-\]
+$$
 
 E o volume do tetraedro é:
 
-\[
+$$
 V_t=\frac{|60|}{6}=10
-\]
+$$
 
 Portanto, os resultados esperados são:
 
