@@ -22,7 +22,7 @@ A aplicação recebe três vetores tridimensionais, calcula o produto misto, det
 
 ## 4. Fundamentação matemática
 
-Dados três vetores tridimensionais \(\vec{u}\), \(\vec{v}\) e \(\vec{w}\), o produto misto é definido por:
+Dados três vetores tridimensionais $$\(\vec{u}\)$$, $$\(\vec{v}\)$$ e $$\(\vec{w}\)$$, o produto misto é definido por:
 
 $$
 [\vec{u},\vec{v},\vec{w}]
